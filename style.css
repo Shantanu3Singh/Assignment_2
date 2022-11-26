@@ -1,0 +1,209 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+    /* background-color: black; */
+}
+header{
+    display: flex;
+    background-color: black;
+    margin-top: 10px;
+}
+.spot h3  {
+        color: white;
+        padding-top: 26px;
+        padding-left: 15px;
+        font-size: xx-large;
+    }
+.logo img{
+    padding-left: 230px;
+    padding-top: 10px;
+   }
+.nav{
+       padding-left: 295px;
+       padding-top: 30px;
+       font-size: larger;
+       height: 90px;
+}
+a{
+    padding-left: 75px;
+    color: white;
+    text-decoration: none;  
+}
+.logo img{
+    height: 74px;
+   
+}
+a:hover{
+  
+    color: green;
+}
+
+.home{
+    background: url("balls.jpeg");
+    display: flex;
+    align-items: center;
+    color: black;
+    font-size: 70px;
+
+}
+
+.home div .home1{
+   background-color: white;
+   height: 200px;
+   
+}
+.home div button{
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.home .home1 img{
+   height: 695px;
+   width: 400px;
+   padding-left: 100px;
+}
+.home .home1 h2{
+    padding-left: 20px;
+}
+.nhome h2{
+    padding-top: 40px;
+    text-align: center;
+   font-size: 60px;
+   /* color: white; */
+}
+.container{
+    display: flex;
+   
+    justify-content: center;
+}
+.menu h2{
+    color: black;
+    text-align: center;
+}
+.box {
+    /* border: 2px solid orange; */
+    height: 400px;
+}
+.box h4 {
+   padding-top: 27px;
+   font-size: 30px;
+   font-weight: bolder;
+}
+.box p {
+   padding-top: 15px;
+   font-size: larger;
+}
+.menu h1{
+    text-align: center;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));
+    padding: 5rem;
+    margin: 5px;
+}
+.container .box img{
+  height: 200px;
+  width: 200px;
+}
+.box {
+    
+    text-align: center;
+    
+}
+.home9{
+    text-align: center;
+    background-color: rgb(130, 127, 207);
+    height: 300px;
+}
+.home9 h4{
+    padding-top: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+[12:33 PM, 11/25/2022] Piyush Varshney W2: .home90{
+    height: 200px;
+    background-color: aqua;
+ }
+ .home90 h1{
+    font-size: 80px;
+    text-align: center;
+ }
+ .home90 button{
+   background-color: white;
+   color: black;
+   padding: 20px 20px;
+   border-radius: 20px;
+ }
+ .foot{
+ 
+     background-color: rgb(116, 152, 188);
+ }
+ .foot1{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ .foot1 div{
+     padding: 10px 71px;
+ }
+ .foot1 div ol li{
+  list-style: none;
+    padding-top: 20px;
+ }
+ .foot1 div ol li a{
+    text-decoration: none;
+    color: black;
+ }
+ .logo34{
+     padding-left: 128px;
+     display: flex;
+     align-items: center;
+     height: 80px;
+ }
+ .logo34  i{
+     padding-left: 15px;
+ }
+ .last{
+     padding-top: 30px;
+     display: flex;
+     align-items: center;
+     height: 50px;
+ }
+ .last a{
+     text-decoration: none;
+     color: black;
+     padding: 8px;
+ }
+ .last div{
+    margin-left: 207px;
+ }
+ .last div1{
+    margin-left: 760px;
+ }
+ #_it{
+    font-size: 50px;
+    padding-left: 220px;
+}
+.dropdown_1{
+    padding-top: 40px;
+    
+    padding-left: 460px;
+}
+button{
+    border: 2px  solid black;
+    width: 600px;
+    height: 30px;
+
+}
+.sel_2{
+    width: 300px;
+    font-size: 20px;
